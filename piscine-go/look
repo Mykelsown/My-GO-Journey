@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Search in current directory and subdirectories for files matching the patterns
+find . \( -name "a*" -o -name "*z" -o -name "z*a!" \)

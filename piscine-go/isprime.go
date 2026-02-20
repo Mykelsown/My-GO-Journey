@@ -1,0 +1,22 @@
+package student
+
+func IsPrime(nb int) bool {
+	if nb <= 1 {
+		return false
+	}
+	if nb == 2 {
+		return true
+	}
+	if nb%2 == 0 {
+		return false
+	}
+
+	// Only check odd divisors up to sqrt(nb)
+	for i := 3; i*i <= nb; i += 2 {
+		if nb%i == 0 {
+			return false
+		}
+	}
+
+	return true
+}

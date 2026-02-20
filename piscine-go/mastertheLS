@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Master the ls command
+ls -pAt | grep -v "^\." | paste -sd "," -
