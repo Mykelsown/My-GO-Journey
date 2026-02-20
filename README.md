@@ -1,4 +1,4 @@
-# A COMPLETE REPOSITORY OF HOW & WHERE MY GO JOURNEY
+# A COMPLETE REPOSITORY OF HOW & WHERE MY GO JOURNEY BEGAN
 
 ## THE BEGINNING 
 
@@ -11,6 +11,7 @@
 
 ## projects in this repository
 - pisine-go
+- sudoku-solver
 - GO-with-Joseph-Abah
 
 ### PISCINE-GO
