@@ -25,3 +25,7 @@ This project consist of my though journey through Learn2Earn selection phase sys
 - A system that uses characters to form a shape i.e *Quad*
 - Created a pattern recognition system i.e *quad checker*
 - A sudoku solver (refer to the "L2E sudoku-solver")
+
+
+### SUDOKU-SOLVER
+The sudoku solver is a system that uses the principle of recursion to solve a valid sudoku game
