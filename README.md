@@ -9,7 +9,7 @@
 
 - You might see some of this project as a stand-alone repo in my github account, but i will still be adding them to this *repository* for easy access and navigation.
 
-## project in this repository
+## projects in this repository
 - pisine-go
 - GO-with-Joseph-Abah
 
